@@ -58,6 +58,7 @@ Maintainers:
 * Olympus (Atrix): turl, Atrix-Dev-Team
 * V9 (ZTE Light, Optus MyTab, others): kallt_kaffe and Tom Giordano
 * Motus (Backflip) : j_r0dd, flavio_frow
+<<<<<<< HEAD
 * Saga (Desire S): Nexx
 * LGE Optimus Black: arcee
 * LGE Optimus 3D: arcee
@@ -69,6 +70,8 @@ Maintainers:
 * LGE Optimus Chic: arcee
 * Motorola Photon (sunfire): cybik
 * Skate (Monte Carlo, SFR Staraddict, others): Lalit Maganti
+* Saga (Desire S): Nexx, SuperKid
+* Venus2 (Droid Pro): Jonathan Clavin, RevNumbers
 * LGE Optimus Me: Ron Gokhle
 
 Translators:
