@@ -58,7 +58,6 @@ Maintainers:
 * Olympus (Atrix): turl, Atrix-Dev-Team
 * V9 (ZTE Light, Optus MyTab, others): kallt_kaffe and Tom Giordano
 * Motus (Backflip) : j_r0dd, flavio_frow
-<<<<<<< HEAD
 * Saga (Desire S): Nexx
 * LGE Optimus Black: arcee
 * LGE Optimus 3D: arcee
